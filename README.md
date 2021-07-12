@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chaitika
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on projects involving Pyton for ML
+- 💞️ I’m looking to collaborate on projects involving Python for ML
 - 📫 How to reach me drop a mail @ chaitikabhatnagar@gmail.com
 
 <!---
